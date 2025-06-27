@@ -22,12 +22,12 @@ negative, or neutral.
    following command.
 
    ```console
-   $ git clone https://github.com/harsh4870/Docker-NLP.git
+   $ git clone https://github.com/v0idgy/sentiments-analysis-docker.git
    ```
 
 2. Verify that you cloned the repository.
 
-   You should see the following files in your `Docker-NLP` directory.
+   You should see the following files in your `Sentiments-Analysis-Docker` directory.
 
    ```text
    01_sentiment_analysis.py
@@ -43,7 +43,7 @@ negative, or neutral.
 
 ## Explore the application code
 
-The source code for the sentiment analysis application is in the `Docker-NLP/01_sentiment_analysis.py` file. Open `01_sentiment_analysis.py` in a text or code editor to explore its contents in the following steps.
+The source code for the sentiment analysis application is in the `Sentiments-Analysis-Docker/01_sentiment_analysis.py` file. Open `01_sentiment_analysis.py` in a text or code editor to explore its contents in the following steps.
 
 1. Import the required libraries.
 
