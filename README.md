@@ -350,6 +350,4 @@ Related information:
 - [Natural Language Toolkit](https://www.nltk.org/)
 - [Python documentation](https://docs.python.org/3/)
 
-## Next steps
 
-Explore more [natural language processing guides](./_index.md).
